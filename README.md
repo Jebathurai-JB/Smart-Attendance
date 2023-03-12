@@ -1,7 +1,8 @@
 
+
 # Smart Attendance using Face Recognition
 
-#### This project is a smart attendance system that uses face recognition to detect and recognize students' faces and mark their attendance in an Excel sheet. The system is designed to simplify the attendance tracking process in classrooms or other educational settings.
+##### This project is a smart attendance system that uses face recognition to detect and recognize students' faces and mark their attendance in an Excel sheet. The system is designed to simplify the attendance tracking process in classrooms or other educational settings.
 
 
 ## Problem Statement
@@ -16,11 +17,10 @@ Traditional attendance tracking methods involve manual entry and are time-consum
 
 We recommend to use python 3.7 for this project
 
-**Create a virtual env:** 
+**Create a virtual env:**  `conda create -n <envname> 
+python=3.7 -y` 
 
-`conda create -n <envname> python=3.7 -y` 
-
-`activate <envname>`
+**Activate the env:** `activate <envname>`
 
 **Clone the repository to your local machine:**
 
