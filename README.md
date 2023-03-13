@@ -16,10 +16,9 @@ Traditional attendance tracking methods involve manual entry and are time-consum
 
 We recommend to use python 3.7 for this project
 
-**Create a virtual env:**  `conda create -n <envname> 
-python=3.7 -y` 
+**Create a virtual env:**  `conda create -n <envname> python=3.7 -y` 
 
-**Activate the env:** `activate <envname>`
+**Activate the env:**  `activate <envname>`
 
 **Clone the repository to your local machine:**
 
