@@ -25,6 +25,9 @@ def create_attendance_sheet(subjects):
             data = pd.DataFrame(data=None,columns=['reg_no', 'name'])
             data.to_csv(f'AttendanceData/{subject}.csv', index=False)
 
+def create_student_image_dir():
+    os.makedirs('StudentsImage', exist_ok=True)
+
 
 def get_photo():
 	path = 'StudentsImage'
@@ -100,6 +103,7 @@ subject_list = ['Mathematics', 'Science', 'Social']
 
 create_students_data()
 create_attendance_sheet(subject_list)
+create_student_image_dir()
 
 images = []
 classNames = []
