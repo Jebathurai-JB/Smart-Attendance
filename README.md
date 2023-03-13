@@ -31,3 +31,10 @@ We recommend to use python 3.7 for this project
 **Run the python file:**
 
 `python iattendance.py`
+
+
+
+
+
+![iattendance](https://user-images.githubusercontent.com/74975910/224779942-d3d19df0-87ad-42bf-a1e2-86d8bbd40cbf.gif)
+
