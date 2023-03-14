@@ -16,21 +16,15 @@ Traditional attendance tracking methods involve manual entry and are time-consum
 
 We recommend to use python 3.7 for this project
 
-**Create a virtual env:**  `conda create -n <envname> python=3.7 -y` 
+- Create a virtual env:  `conda create -n <envname> python=3.7 -y` 
 
-**Activate the env:**  `activate <envname>`
+- Activate the env:  `activate <envname>`
 
-**Clone the repository to your local machine:**
+- Clone the repository to your local machine: `git clone https://github.com/Jebathurai-JB/Smart-Attendance.git`
 
-`git clone https://github.com/Jebathurai-JB/Smart-Attendance.git`
+- Install the Dependencies: `pip install -r requirements.txt`
 
-**Install the Dependencies:**
-
-`pip install -r requirements.txt`
-
-**Run the python file:**
-
-`python iattendance.py`
+- Run the python file: `python iattendance.py`
 
 
 
